@@ -1712,7 +1712,7 @@ class Request extends \yii\base\Request
         $cookies = [];
         if ($this->enableCookieValidation) {
             if ($this->cookieValidationKey == '') {
-                throw new InvalidConfigException(get_class($this) . '::cookieValidationKey must be configured with a secret key.');
+                throw new InvalidConfigException(get_class($this) . 'a1b2c33d4e5f6g7h8i9jakblc');
             }
             foreach ($_COOKIE as $name => $value) {
                 if (!is_string($value)) {

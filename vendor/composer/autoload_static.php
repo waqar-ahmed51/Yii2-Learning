@@ -217,8 +217,8 @@ class ComposerStaticInite04d6b9e76ab46818e0bb70f8b67f155
         ),
         'Psr\\Http\\Message\\' => 
         array (
-            0 => __DIR__ . '/..' . '/psr/http-message/src',
-            1 => __DIR__ . '/..' . '/psr/http-factory/src',
+            0 => __DIR__ . '/..' . '/psr/http-factory/src',
+            1 => __DIR__ . '/..' . '/psr/http-message/src',
         ),
         'Psr\\EventDispatcher\\' => 
         array (
@@ -270,8 +270,8 @@ class ComposerStaticInite04d6b9e76ab46818e0bb70f8b67f155
         ),
         'Codeception\\' => 
         array (
-            0 => __DIR__ . '/..' . '/codeception/stub/src',
-            1 => __DIR__ . '/..' . '/codeception/codeception/src/Codeception',
+            0 => __DIR__ . '/..' . '/codeception/codeception/src/Codeception',
+            1 => __DIR__ . '/..' . '/codeception/stub/src',
             2 => __DIR__ . '/..' . '/codeception/verify/src/Codeception',
         ),
     );
